@@ -22,7 +22,6 @@ for question in questions:
     print(f"c. {question[3]}")
     print(f"d. {question[4]}")
 
-    # Check whether the answer is correct or not
     a = int(input("Enter your answer. 1 for a, 2 for b, 3 for c, 4 for d\n"))
     if(question[5] == a):
         print("Correct Answer")
