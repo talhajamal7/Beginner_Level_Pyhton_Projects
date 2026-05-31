@@ -1,4 +1,4 @@
-import requests # pip install requests
+import requests 
 
 query = input("What type of news are you interested in today? ")
 api = "dbe57b028aeb41e285a226a94865f7a7"
