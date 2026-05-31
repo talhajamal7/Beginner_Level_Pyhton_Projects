@@ -2,7 +2,7 @@
 
 def greet():
 
-    print("Good morning! Welcome to Tic Tac Toe!")
+    print("Hello! Welcome to Tic Tac Toe!")
     print("Player 1 is X")
     print("Player 2 is O")
     print("Let's start the game!")
