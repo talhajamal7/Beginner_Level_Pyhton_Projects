@@ -44,3 +44,4 @@ python -m pip install PyPDF2
 - Merge multiple PDFs and simple command-line input
 
 ---
+## All the other projects are simple and can be runned easily without installing any library inside VS Code.
